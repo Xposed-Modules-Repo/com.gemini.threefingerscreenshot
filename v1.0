@@ -1,0 +1,13 @@
+🖐️ Three Finger Screenshot - LSPosed Module
+
+Swipe down with 3 fingers to take a screenshot.
+
+Requirements:
+- Android 8.0+
+- Root + LSPosed Framework
+
+Installation:
+1. Install APK
+2. Enable in LSPosed Manager → Modules
+3. Set scope: System Framework + SystemUI
+4. Reboot

@@ -1,0 +1,6 @@
+Module Name: Three Finger Screenshot
+Package Name: com.gemini.threefingerscreenshot
+Repository: https://github.com/blasperez/ThreeFingerScreenshot
+Description: Take screenshots with a three-finger swipe down gesture
+Min Android: 8.0 (API 26)
+Scope: System Framework, SystemUI
